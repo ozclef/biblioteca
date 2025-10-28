@@ -1,0 +1,14 @@
+
+{
+  "generatedAt": "2025-10-28T00:00:00.000Z",
+  "files": [
+    { "path": "index.html", "ext": "html" },
+    { "path": "styles/style.css", "ext": "css" },
+    { "path": "scripts/app.js", "ext": "js" },
+    { "path": "data/productos.json", "ext": "json" },
+    { "path": "imgs/3a631ed8-...jpg", "ext": "jpg" },
+    { "path": "tools/generate-products.js", "ext": "js" },
+    { "path": "notes/readme.md", "ext": "md" },
+    { "path": "extras/script.py", "ext": "py" }
+  ]
+}
